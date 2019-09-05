@@ -1,0 +1,6 @@
+1:monday:work day
+2:monday:busy day
+3:tuesday:another day
+4:wednesday:hump day
+5:tuesday:good day
+6:thursday:crap
